@@ -1,3 +1,10 @@
+<<<<<<< HEAD
+=======
+# Food Survey
+
+![Food Pyramid](food-pyramid.jpg)
+
+>>>>>>> af6fc53... Add pyramid image
 This file is an attempt to document what foods are liked and disliked by a group of people.
 
 ### What is your favorite food?
